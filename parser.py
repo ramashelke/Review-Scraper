@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 28 19:21:03 2020
-
-@author: Priyank Shah
-"""
 
 '''
 The script will be used to extract the critic, rating, source, date,
